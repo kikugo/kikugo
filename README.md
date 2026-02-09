@@ -4,15 +4,15 @@
 
 <h1 align="center">I'm Karthik</h1>
 
-I am an Innovative AI Engineer and with hands-on experience in developing AI-driven solutions, machine learning models, and data analysis. Proven track record in enhancing user engagement and optimizing model performance across various industries.
+I am an innovative AI Engineer with hands-on experience in developing AI driven solutions, machine learning models, and data analysis. Proven track record in enhancing user engagement and optimizing model performance across various industries.
 
-- 🔭 I'm currently working on AI/ML model architecture & optimization
+- I'm currently working on AI/ML model architecture & optimization
 
-- 🌱 I'm learning new tools, tech, and methods.
+- I'm learning new tools, tech, and methods.
 
-- 🤝 Love teaming up on ML projects and research.
+- Love teaming up on ML projects and research.
 
-- 📨 React me at: <a href="mailto:karthikchangal39@gmail.com" target="_blank">karthikchangal39@gmail.com</a> 
+- Reach me at: <a href="mailto:karthikchangal39@gmail.com" target="_blank">karthikchangal39@gmail.com</a> 
 
 ## Connect with me on:
 <a href="https://www.linkedin.com/in/ckarthikr/" target="_blank">
