@@ -4,49 +4,47 @@
 
 <h1 align="center">I'm Karthik</h1>
 
-I am an innovative AI Engineer with hands-on experience in developing AI driven solutions, machine learning models, and data analysis. Proven track record in enhancing user engagement and optimizing model performance across various industries.
+<p align="center">
+AI engineer. I build retrieval and multimodal systems — RAG pipelines, semantic search,
+and LLM apps that actually ship. Most of my work sits where vector search, multi-agent
+pipelines, and real-time inference meet.
+</p>
 
-- I'm currently working on AI/ML model architecture & optimization
-
-- I'm learning new tools, tech, and methods.
-
-- Love teaming up on ML projects and research.
-
-- Reach me at: <a href="mailto:karthikchangal39@gmail.com" target="_blank">karthikchangal39@gmail.com</a> 
-
-## Connect with me on:
+<p align="center">
+<a href="https://kikugo.github.io" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ckarthikr/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://www.kaggle.com/kikugo" target="_blank">
+<img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
 <a href="mailto:karthikchangal39@gmail.com">
-<img src="https://img.shields.io/badge/Mail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</p>
+
+## 🚀 Featured Projects
+
+- **[VideoSense](https://github.com/kikugo/VideoSense)** — Search inside a video with plain language. Indexes frames *and* transcripts, fuses both channels, and jumps you to the matching moment. Pluggable vector store with a production Qdrant backend and a health-checked fallback. · `Python` `Gemini` `Qdrant`
+
+- **[MedQuery](https://github.com/kikugo/MedQuery)** — Medical Q&A over drug guidelines. Hybrid BM25 + FAISS retrieval with rank fusion, a multi-agent pipeline behind an MCP server, and prompts tracked against an eval set. · `Python` `FAISS` `BM25` `MCP`
+
+- **[Unified RAG](https://github.com/kikugo/unified-rag)** — Multimodal RAG over text, images, audio, and video in one pipeline, with hybrid routing between local and managed backends. · `Python` `Gemini` `ChromaDB`
+
+- **[CLI Tower Defense](https://github.com/kikugo/cli-tower-defense)** — A terminal game where two LLMs go head to head in real time — one places towers, one spawns enemies. · `Go` `OpenAI` `Gemini`
 
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
-![Matlab](https://img.shields.io/badge/MATLAB-%23FF0000.svg?style=for-the-badge&logo=matlab&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-%23F7931E.svg?style=for-the-badge&logo=transformers&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS Redshift](https://img.shields.io/badge/AWS%20Redshift-%23F7931E.svg?style=for-the-badge&logo=amazon-redshift&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗%20Transformers-%23FFD21E.svg?style=for-the-badge&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-%238E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-%230467DF.svg?style=for-the-badge&logo=meta&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-%23DC244C.svg?style=for-the-badge&logo=qdrant&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-%23FF6B4A.svg?style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
