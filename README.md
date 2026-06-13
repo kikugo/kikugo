@@ -21,7 +21,7 @@ pipelines, and real-time inference meet.
 <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - **[VideoSense](https://github.com/kikugo/VideoSense)** — Search inside a video with plain language. Indexes frames *and* transcripts, fuses both channels, and jumps you to the matching moment. Pluggable vector store with a production Qdrant backend and a health-checked fallback. · `Python` `Gemini` `Qdrant`
 
@@ -31,20 +31,23 @@ pipelines, and real-time inference meet.
 
 - **[CLI Tower Defense](https://github.com/kikugo/cli-tower-defense)** — A terminal game where two LLMs go head to head in real time — one places towers, one spawns enemies. · `Go` `OpenAI` `Gemini`
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗%20Transformers-%23FFD21E.svg?style=for-the-badge&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-%231C3C3C.svg?style=for-the-badge&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-%23FF5A50.svg?style=for-the-badge&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-%238E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-%230467DF.svg?style=for-the-badge&logo=meta&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-%23DC244C.svg?style=for-the-badge&logo=qdrant&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-%23FF6B4A.svg?style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
